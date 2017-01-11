@@ -2,7 +2,7 @@
 /*   visit us at http://www.hscripts.com     */
 /*   This is a copyright product of hioxindia.com */
 
-var image="https://i.imgur.com/bNTsYE0.gif";  //Image path should be given here
+var image="https://i.imgur.com/wo6ASgZ.gif";  //Image path should be given here
 var no = 15; // No of images should fall
 var time = 0; // Configure whether image should disappear after x seconds (0=never):
 var speed = 70; // Fix how fast the image should fall
